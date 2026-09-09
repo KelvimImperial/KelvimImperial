@@ -1,20 +1,20 @@
-###Sou Engenheiro de Inteligência Artificial e Dados, dedicado ao desenvolvimento de soluções que transformam dados complexos e documentos em sistemas inteligentes capazes de apoiar decisões e acelerar a transformação digital.
+### Sou Engenheiro de Inteligência Artificial e Dados, dedicado ao desenvolvimento de soluções que transformam dados complexos e documentos em sistemas inteligentes capazes de apoiar decisões e acelerar a transformação digital.
 
  
 
-Atualmente atuo no Instituto Nacional de Estatística de Angola (INE), onde trabalho no desenvolvimento de soluções baseadas em Inteligência Artificial, Ciência de Dados e Large Language Models (LLMs), contribuindo para tornar a informação mais acessível, útil e estratégica para cidadãos e organizações.
+### Atualmente atuo no Instituto Nacional de Estatística de Angola (INE), onde trabalho no desenvolvimento de soluções baseadas em Inteligência Artificial, Ciência de Dados e Large Language Models (LLMs), contribuindo para tornar a informação mais acessível, útil e estratégica para cidadãos e organizações.
 
  
 
-Minha experiência está concentrada na construção de aplicações de IA utilizando Python, FastAPI, LangChain, RAG (Retrieval-Augmented Generation), AI Agents e Machine Learning, desenvolvendo soluções aplicadas a desafios reais nas áreas de administração pública, estatística, direito, saúde e transformação digital.
+### Minha experiência está concentrada na construção de aplicações de IA utilizando Python, FastAPI, LangChain, RAG (Retrieval-Augmented Generation), AI Agents e Machine Learning, desenvolvendo soluções aplicadas a desafios reais nas áreas de administração pública, estatística, direito, saúde e transformação digital.
 
  
 
-Acredito que o verdadeiro valor da Inteligência Artificial não está apenas nos modelos, mas na capacidade de resolver problemas concretos, automatizar processos e apoiar decisões com segurança e eficiência.
+### Acredito que o verdadeiro valor da Inteligência Artificial não está apenas nos modelos, mas na capacidade de resolver problemas concretos, automatizar processos e apoiar decisões com segurança e eficiência.
 
  
 
-Meu objetivo é liderar o desenvolvimento de soluções de IA que impulsionem governos, empresas e instituições em Angola e em toda a África, contribuindo para uma transformação digital baseada em dados, inovação e impacto social.
+### Meu objetivo é liderar o desenvolvimento de soluções de IA que impulsionem governos, empresas e instituições em Angola e em toda a África, contribuindo para uma transformação digital baseada em dados, inovação e impacto social.
 
  
 
