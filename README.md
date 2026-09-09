@@ -1,4 +1,52 @@
-### Hello, my name is Kelvim Imperial 👋, I have been working with Mobile development and Data Science for more than 1 year, during this period I have developed several mobile solutions and several focused on the data area, Most of my experience comes down to working with Dart/Flutter, Python, Power BI, Google Data Studio, Spark, SQL, Docker, Kafka, Figma, Adobe XD.
+###Sou Engenheiro de Inteligência Artificial e Dados, dedicado ao desenvolvimento de soluções que transformam dados complexos e documentos em sistemas inteligentes capazes de apoiar decisões e acelerar a transformação digital.
+
+ 
+
+Atualmente atuo no Instituto Nacional de Estatística de Angola (INE), onde trabalho no desenvolvimento de soluções baseadas em Inteligência Artificial, Ciência de Dados e Large Language Models (LLMs), contribuindo para tornar a informação mais acessível, útil e estratégica para cidadãos e organizações.
+
+ 
+
+Minha experiência está concentrada na construção de aplicações de IA utilizando Python, FastAPI, LangChain, RAG (Retrieval-Augmented Generation), AI Agents e Machine Learning, desenvolvendo soluções aplicadas a desafios reais nas áreas de administração pública, estatística, direito, saúde e transformação digital.
+
+ 
+
+Acredito que o verdadeiro valor da Inteligência Artificial não está apenas nos modelos, mas na capacidade de resolver problemas concretos, automatizar processos e apoiar decisões com segurança e eficiência.
+
+ 
+
+Meu objetivo é liderar o desenvolvimento de soluções de IA que impulsionem governos, empresas e instituições em Angola e em toda a África, contribuindo para uma transformação digital baseada em dados, inovação e impacto social.
+
+ 
+
+Principais áreas de atuação:
+
+ • Inteligência Artificial Generativa (LLMs)
+
+ • AI Agents
+
+ • Retrieval-Augmented Generation (RAG)
+
+ • Engenharia de Dados
+
+ • Ciência de Dados
+
+ • Desenvolvimento Backend com Python e FastAPI
+
+ • Automação Inteligente de Processos
+
+ • Soluções de IA para Governo e Empresas
+
+ 
+
+💻 GitHub: https://github.com/KelvimImperial
+
+ 
+
+📧 E-mail: kelvimimperial03@gmail.com
+
+ 
+
+📺 YouTube: https://www.youtube.com/@kelvimimperial4933
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvim-imperial-calembe-9347691b8/)
 [![Sobre Mim/CV](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kelvimimperial.github.io/)
