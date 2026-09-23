@@ -9,7 +9,7 @@ Analista de Dados e Engenheiro de Inteligência Artificial, focado em transforma
 
 – Habilidades de comunicação, que podem incluir escrita, negociação, apresentação e ensino / orientação.
 
-<img align="center" alt="SQL" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7HXcBemkzb6G9fQTyozyxumqothBRp2RmpdK3olj-DQ-SC97Q1rPDT0Th&s=10"/> <img align="center" alt="Excel" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
+<img align="center" alt="SQL" src="https://img.shields.io/badge/sql-14354C?style=for-the-badge&logo=sql&logoColor=white"/> <img align="center" alt="Excel" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="LangChain" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img align="center" alt="LangGraph" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
