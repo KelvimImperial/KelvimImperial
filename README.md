@@ -13,7 +13,7 @@ Analista de Dados e Engenheiro de Inteligência Artificial, focado em transforma
 <img align="center" alt="Excel" src="https://img.shields.io/badge/excel-02569B?style=for-the-badge&logo=excel&logoColor=white" />
 <img align="center" alt="Power BI" src="https://img.shields.io/badge/powerbi-14354C?style=for-the-badge&logo=powerbi&logoColor=white" />
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="LangChain" src="https://img.shields.io/badge/LangChain-092E20?style=for-the-badge&logo=Langchain&logoColor=white" />
+<img align="center" alt="LangChain" src="https://img.shields.io/badge/LangChain-092E20?style=for-thebadge&logo=Langchain&logoColor=white"/>
 <img align="center" alt="FASTAPI" src="https://img.shields.io/badge/fastapi-F24E1E?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 
