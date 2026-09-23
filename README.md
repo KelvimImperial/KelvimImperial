@@ -20,9 +20,10 @@ Analista de Dados e Engenheiro de Inteligência Artificial, focado em transforma
 
 ### I'm currently
 
-✔️ Improving my knowledge in Data Science and Mobile Development with Dart/Flutter
 
-✔️ I'm currently learning about **Kotlin
+✔️ Aprimorando meus conhecimentos em Analise De Dados e Engenharia de IA
+
+✔️ Atualmente estou aprendendo sobre **Engenharia De Dados**
 
 
 
